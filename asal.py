@@ -9,7 +9,7 @@ def asal_control(control_sayi):
     return True
 
 if asal_control(control_sayi):
-    print("Asal bir sayıdır.")
+    print("Asal sayıdır.")
 
 else:
-    print("Asal bir sayı değildir.")
+    print("Asal sayı değildir.")
